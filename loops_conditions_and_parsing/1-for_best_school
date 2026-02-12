@@ -1,0 +1,6 @@
+#!/bin/bash
+# This script creates a for loop that writes "Best school" 10 times
+for i in {1..10}
+do
+	echo "Best school"
+done
